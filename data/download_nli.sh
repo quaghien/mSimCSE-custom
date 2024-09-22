@@ -1,0 +1,1 @@
+wget https://huggingface.co/datasets/wanhin/luat-contrastive/resolve/main/luat-contrastive.csv
