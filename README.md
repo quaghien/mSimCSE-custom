@@ -2,10 +2,12 @@
 This is the official implementation of the paper [English Contrastive Learning Can Learn Universal Cross-lingual Sentence Embeddings](https://arxiv.org/pdf/2211.06127.pdf). Our model is a multilingual version of [SimCSE](https://arxiv.org/abs/2104.08821) which maps cross-lingual sentences into a shared embedding space. Our implementation is mainly based on official [SimCSE repository](https://github.com/princeton-nlp/SimCSE). Our model can be used for cross-lingual retrieval/mining and cross-lingual sentence embeddings evaluation.
 
 ## My checkpoints:
-   wanhin/msimcse-xlm-roberta-base-vien-envi 
+   Hugging Face: wanhin/msimcse-xlm-roberta-base-vien-envi 
+   
    Base model: FacebookAI/xlm-roberta-base
    
-   wanhin/msimcse-mt5-luat-at
+   Hugging Face: wanhin/msimcse-mt5-luat-at
+   
    Base model: google/mt5-base
    
 ## Getting Started:
