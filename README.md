@@ -4,11 +4,11 @@ This is the official implementation of the paper [English Contrastive Learning C
 ## My checkpoints:
    Hugging Face: wanhin/msimcse-xlm-roberta-base-vien-envi 
    
-   Base model: FacebookAI/xlm-roberta-base
+   (base model: FacebookAI/xlm-roberta-base)
    
    Hugging Face: wanhin/msimcse-mt5-luat-at
    
-   Base model: google/mt5-base
+   (base model: google/mt5-base)
    
 ## Getting Started:
 ### Step 1: Build virtual environment.
